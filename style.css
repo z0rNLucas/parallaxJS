@@ -1,0 +1,52 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.chao {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    z-index: 1;
+}
+
+.ceu {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    z-index: 2;
+}
+
+.lua {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    z-index: 3;
+}
+
+.montanhas {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    z-index: 4;
+}
+
+.nave {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    z-index: 5;
+}
+
+.luz {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    z-index: 6;
+}
